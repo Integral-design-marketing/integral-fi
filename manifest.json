@@ -1,0 +1,52 @@
+{
+  "name": "Integral Oy",
+  "short_name": "Integral",
+  "theme_color": "#1E375A",
+  "background_color": "#FAFAF5",
+  "display": "browser",
+  "orientation": "landscape",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "https://uploads-ssl.webflow.com/5e22148329b0c0378e62c102/5f636a592ef82f4c9dfaf267_icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://uploads-ssl.webflow.com/5e22148329b0c0378e62c102/5f636a593caf6e470fc6cb9a_icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://uploads-ssl.webflow.com/5e22148329b0c0378e62c102/5f636a59753da43e4cd957c7_icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://uploads-ssl.webflow.com/5e22148329b0c0378e62c102/5f636a597e9ee113c91e3114_icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://uploads-ssl.webflow.com/5e22148329b0c0378e62c102/5f636a59412ef85027091188_icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://uploads-ssl.webflow.com/5e22148329b0c0378e62c102/5f636a5956a8df3a4b8993bc_icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://uploads-ssl.webflow.com/5e22148329b0c0378e62c102/5f636b3c6a0ec9f6d9d8bd97_icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://uploads-ssl.webflow.com/5e22148329b0c0378e62c102/5f636a5ab81e1b1f0dd2a251_icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
